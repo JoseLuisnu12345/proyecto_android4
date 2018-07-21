@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5173399cb75bd2d6ad5ad74235200e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\30228a436558697d8769181bd722f4e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\0c5c5628c9f4bbdae6e367e537227fe7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\199338e04a23961b1c09aa4b7240a762\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\84be68f93637c9b45e3e306cc752cec8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c35d842135b3194155d665d6cafd6071\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\27b1b322735e38aeba620e7536460b7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fe03d7ed823992a595500cde326b7bf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\10f4da933f55027db6e771a708de7f48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3c06f262827d6a3f8ca19bc34461f800\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c1b60294a40b9ace9f6c3319bde83cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\44f0d1b51416f7bd85a5663a5658e893\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cc1dc6286c1526451df99a698710045\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab2da0a5a87122d6b7d59f2d1fabae11\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bf663a9a6ad178b57efd19f5512e70e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\88035b8423a93cdaf2c9a4b294220fe2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8453468e9df565ce676e0a9e0240e3e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\0c5c5628c9f4bbdae6e367e537227fe7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\0c5c5628c9f4bbdae6e367e537227fe7\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#d.edu.itla.taskapp.Vista.LoginActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:12:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:16:27-74
+activity#d.edu.itla.taskapp.Vista.CrearCategoriaActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:19:9-66
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:19:19-63
+activity#d.edu.itla.taskapp.Vista.CategoriaListaActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:20:9-66
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:20:19-63
+activity#d.edu.itla.taskapp.MainActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:21:19-47
+activity#d.edu.itla.taskapp.Vista.RegistroUsuarioActivity
+ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:22:9-67
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml:22:19-64
+uses-sdk
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5173399cb75bd2d6ad5ad74235200e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5173399cb75bd2d6ad5ad74235200e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\30228a436558697d8769181bd722f4e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\30228a436558697d8769181bd722f4e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\0c5c5628c9f4bbdae6e367e537227fe7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\0c5c5628c9f4bbdae6e367e537227fe7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\199338e04a23961b1c09aa4b7240a762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\199338e04a23961b1c09aa4b7240a762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\84be68f93637c9b45e3e306cc752cec8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\84be68f93637c9b45e3e306cc752cec8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c35d842135b3194155d665d6cafd6071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c35d842135b3194155d665d6cafd6071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\27b1b322735e38aeba620e7536460b7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\27b1b322735e38aeba620e7536460b7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fe03d7ed823992a595500cde326b7bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fe03d7ed823992a595500cde326b7bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\10f4da933f55027db6e771a708de7f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\10f4da933f55027db6e771a708de7f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3c06f262827d6a3f8ca19bc34461f800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3c06f262827d6a3f8ca19bc34461f800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c1b60294a40b9ace9f6c3319bde83cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c1b60294a40b9ace9f6c3319bde83cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\44f0d1b51416f7bd85a5663a5658e893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\44f0d1b51416f7bd85a5663a5658e893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cc1dc6286c1526451df99a698710045\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cc1dc6286c1526451df99a698710045\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab2da0a5a87122d6b7d59f2d1fabae11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ab2da0a5a87122d6b7d59f2d1fabae11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bf663a9a6ad178b57efd19f5512e70e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bf663a9a6ad178b57efd19f5512e70e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\88035b8423a93cdaf2c9a4b294220fe2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\88035b8423a93cdaf2c9a4b294220fe2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8453468e9df565ce676e0a9e0240e3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c8453468e9df565ce676e0a9e0240e3e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\TaskApp\app\src\main\AndroidManifest.xml
