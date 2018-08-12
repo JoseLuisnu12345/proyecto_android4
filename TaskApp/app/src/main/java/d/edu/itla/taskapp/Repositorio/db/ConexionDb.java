@@ -9,7 +9,7 @@ public class ConexionDb extends SQLiteOpenHelper {
 
     private static final String LOG_TAG = "ConexionDb";
     private static final String NOMBRE_DB = "taskapp.db";
-    private static final int VERSION_DB = 1;
+    private static final int VERSION_DB = 2;
 
     public ConexionDb(Context context)
     {
@@ -23,14 +23,18 @@ public class ConexionDb extends SQLiteOpenHelper {
         //db
         db.execSQL(EstructuraDb.TABLA_CATEGORIA);
 
-
         //tabla
+        db.execSQL(EstructuraDb.TABLA_USUARIO);
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         //TODO: lo veremos una segunda etapa DB upgrade
-        db.execSQL("DROP TABLE categoria");
-        this.onCreate(db);
+        //db.execSQL("DROP TABLE categoria");
+        //this.onCreate(db);
+        if(oldVersion==1){
+            db.execSQL(EstructuraDb.TABLA_USUARIO);
+        }
+
     }
 }

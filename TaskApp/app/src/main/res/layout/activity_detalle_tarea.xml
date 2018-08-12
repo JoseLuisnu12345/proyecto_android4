@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Vista.DetalleTareaActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <Button
+            android:id="@+id/btnTareaLista"
+            android:layout_width="0.5dp"
+            android:layout_height="100px"
+            android:layout_height="wrap_content"
+            android:text="Listo"
+            android:background="@color/azul_claro"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/txtFechatarea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="17/07/2018"
+            android:layout_weight="0.5"
+            android:textAlignment="center"
+            android:textSize="24dp"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtNombreCategoriaTarea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre categoria"
+        android:textSize="24dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/txtTituloUsuarioTarea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Usuario:"
+        android:textSize="24dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/txtNombreUsuarioTarea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre usuario:"
+        android:textSize="24dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estado"
+        android:textSize="24dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:id="@+id/txtEstado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pendiente:"
+        android:textSize="24dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Descripcion:"
+        android:textSize="24dp"
+        android:textColor="@color/black"
+    <TextView
+        android:id="@+id/txtDescripcionTarea"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Descripcion Tarea"
+        android:textSize="24dp"
+        android:textColor="@color/black"/>
+    <Button
+        android:id="@+id/btnAgregarNotaTarea"
+        android:layout_width="300px"
+        android:layout_height="wrap_content"
+        android:text="Agregar nota"
+        android:background="@color/azul_claro"
+        android:textStyle="bold"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ListView
+            android:id="@+id/lvNotas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </ListView>
+    </LinearLayout>
+</LinearLayout>

@@ -1,4 +1,4 @@
-#Mon Jun 18 10:21:40 BOT 2018
-base.0=C\:\\Users\\Jose Luis\\AndroidStudioProjects\\TaskApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+#Mon Jul 23 14:50:44 BOT 2018
+base.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\TaskApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 path.0=classes.dex
 renamed.0=classes.dex

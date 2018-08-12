@@ -67,8 +67,7 @@ public class UsuarioRepositorioDbImpl implements UsuarioRepositorio {
         cv.put(CAMPO_EMAIL, usuario.getEmail());
         //db
         SQLiteDatabase db = conexionDb.getWritableDatabase();
-        int cantidad = db.update(TABLA_USUARIO, cv, "id = ?"
-                , new String[]{usuario.getId().toString()});
+        int cantidad = db.update(TABLA_USUARIO, cv, "id = ?", new String[]{usuario.getId().toString()});
         //cerrando la db
         db.close();
         //retorna false si no guardo

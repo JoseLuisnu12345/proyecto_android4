@@ -26,7 +26,7 @@ public class CategoriaListaActivity extends AppCompatActivity {
         categoriaRepositorio = new CategoriaRepositorioImp(this);
         List<Categoria> categorias = categoriaRepositorio.buscar(null);
 
-        Log.i(LOG_TAG, "tOTAL DE CATEGORIAS"+categorias.size());
+        Log.i(LOG_TAG, "TOTAL DE CATEGORIAS"+categorias.size());
 
         ListView catListView =(ListView)findViewById(R.id.categoria_listview);
 
